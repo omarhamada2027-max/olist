@@ -2,7 +2,7 @@ streamlit
 streamlit-option-menu
 pandas
 numpy
-plotly
+plotly==5.24.1
 matplotlib
 seaborn
 scikit-learn
